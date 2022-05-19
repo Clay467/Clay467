@@ -1,10 +1,5 @@
 <h3 title="hehehe"> Hey 👋, I'm Clay!</h3>
 
-<a href="https://www.linkedin.com/in/clayton-gall-66947a97/">
-  <img align="left" alt="Clay's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-
 <br />
 <br />
 
