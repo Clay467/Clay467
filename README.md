@@ -16,7 +16,6 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [claytongall46@gmail.com](mailto:claytongall46@gmail.com).
 
-<br />
 
 **Languages and Tools:**  
 
