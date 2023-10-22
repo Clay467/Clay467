@@ -1,22 +1,26 @@
 <h3 title="hehehe"> Hey 👋, I'm Clay!</h3>
 
-<br />
-
 I'm a full stack engineer professionally working in C# w/ .NET, T-SQL, & AngularJS.
 <br />
-Hobby bulding in Python for web scraping, task automation, data processing, and machine learning.
-
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+In my free time I'm programming using Python for web scraping, task automation, data processing, and machine learning.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently an Information Technology Undergrad student at Missouri State University online.
+- 👨🏽‍💻 I’m currently an undergrad student at Missouri State University online with a major in Information Technology - App Development.
+- 🥋 I have a brown belt in Brazilian jiu-jitsu
+- 🧑‍⚕️ My work history is in a variety of health-care fields.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [claytongall46@gmail.com](mailto:claytongall46@gmail.com).
 
+**Company Projects worked on:**
 
-**Languages and Tools:**  
+- CRUD Wep Applications (company portal)
+- Internal APIs
+- SQL stored procedures
+- Web scrapers
+- Automated testing
+
+**Primary Languages and Tools:**  
 
 [![My Skills](https://skillicons.dev/icons?i=py,cs,js,angular)](https://skillicons.dev)
 <br />
