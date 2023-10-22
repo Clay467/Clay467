@@ -1,6 +1,6 @@
 <h3 title="hehehe"> Hey 👋, I'm Clay!</h3>
 
-I'm a full stack engineer professionally working in C# w/ .NET, T-SQL, & AngularJS.
+I'm a full stack software engineer working professionally in C# w/ .NET, T-SQL, & AngularJS.
 <br />
 In my free time I'm programming using Python for web scraping, task automation, data processing, and machine learning.
 
